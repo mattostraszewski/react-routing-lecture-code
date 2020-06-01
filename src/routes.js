@@ -10,4 +10,7 @@ export default (
     <Route path='/about' component={About} />
     <Route path='/contact' component={Contact} />
   </Switch>
+  // path is the endpoint url for the route.
+  // component is for which component is hitting that end point.
+  // exact means the path defined has to be an exact match to the end point.
 )

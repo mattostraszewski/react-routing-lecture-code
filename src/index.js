@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom';   //what is this
+import ReactDOM from 'react-dom';   //what is this 
 import { HashRouter as Router } from 'react-router-dom';  //what is this
 import './index.css';
 import App from './App';
